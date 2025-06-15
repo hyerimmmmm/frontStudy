@@ -18,7 +18,7 @@ function App() {
     // });
 
     // axios 축약구조 --> 안전장치 걸림
-    // async ~await
+    // async ~await --> 안전장치 해제
     // data: 서버에서 응답 보낸 값
     const data = await axios.get(
       "https://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=27ac8f72eea1d11cea781512d9dfb384&targetDt=20120101"
