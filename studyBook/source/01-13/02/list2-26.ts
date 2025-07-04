@@ -1,0 +1,1 @@
+const bigno:bigint = 100n;

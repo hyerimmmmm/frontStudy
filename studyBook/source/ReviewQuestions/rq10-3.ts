@@ -1,0 +1,3 @@
+interface Telephone {
+    call(): void;
+}

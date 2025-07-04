@@ -1,0 +1,5 @@
+// 다음은 명령어의 예입니다.
+c:/> cd c:/work
+c:/Work> npx create-react-app text-sample --template typescript
+c:/Work> cd text-sample
+c:/Work/text-sample> npm start

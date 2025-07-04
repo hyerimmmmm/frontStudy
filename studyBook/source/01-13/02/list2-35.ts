@@ -1,0 +1,1 @@
+const userdata:[string, number, number, number] = ["HIRO", 35, 175.2, 65.3];
